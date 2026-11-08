@@ -6,7 +6,7 @@
 
     <groupId>io.github.monadrome</groupId>
     <artifactId>blocking-queues</artifactId>
-    <version>0.1.0-SNAPSHOT</version>
+    <version>${revision}</version>
     <packaging>jar</packaging>
 
     <name>blocking-queues</name>
@@ -34,6 +34,7 @@
     </scm>
 
     <properties>
+        <revision>0.1.0-SNAPSHOT</revision>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <java.release>8</java.release>
         <maven.compiler.testRelease>11</maven.compiler.testRelease>
