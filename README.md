@@ -8,9 +8,11 @@ General-purpose Java blocking queues for applications that need dynamic capacity
 <dependency>
     <groupId>io.github.monadrome</groupId>
     <artifactId>blocking-queues</artifactId>
-    <version>0.5.0</version>
+    <version>0.5.0-SNAPSHOT</version>
 </dependency>
 ```
+
+当前开发线版本为 `0.5.0-SNAPSHOT`；`0.5.0` 需要等首次正式发布后再使用。
 
 ## API
 
